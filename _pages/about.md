@@ -42,7 +42,7 @@ Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, L
 </div>
 
 # 🎖 Honors and Awards
-- *2023* National Scholarship, Ministry of Education of China
+- *2023* National Scholarship (Top 1%), Ministry of Education of China
 - *2023* Huawei Smart Base Scholarship, Huawei Technologies Co., Ltd.
 
 # 📖 Educations
