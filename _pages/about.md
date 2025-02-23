@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my personal website! I am Zhiyuan Liu (Chinese: 刘知远), a highly motivated and passionate undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior (Class of 2026) with a strong academic record and a deep interest in **Data-centric AI**.
+Welcome to my personal website! I am Zhiyuan Liu (Chinese: 刘知远), a highly motivated and passionate undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior (Class of 2026) with a strong academic record and a deep interest in **Data-centric AI**, particularly in **Data-Efficient Artificial Intelligence**.
 
-My research interests include **Dataset Distillation** and **Knowledge Distillation**. I am passionate about **Data-centric AI** and intend to conduct advanced research in this field to drive innovative solutions and applications. You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pdf).
+My research is centered around the burgeoning field of **Data-Efficient AI**, which tackles the critical challenge of data dependency in modern AI.  Current artificial intelligence models often demand vast amounts of training data, leading to prohibitively high training costs, especially for large-scale models.  I am deeply interested in exploring innovative approaches to **utilize data more efficiently**, including techniques for **scientific data cleaning and synthesis**.  Furthermore, I am enthusiastic about leveraging **synthetic data to enhance generative models**, ultimately striving towards the goal of truly **data-efficient artificial intelligence**. My specific research interests directly align with this vision, focusing on:
+
+* **Dataset Distillation:**  Developing methods for efficient and lossless dataset compression, enabling effective training with significantly reduced data.
+* **Knowledge Distillation:**  Investigating novel techniques to transfer knowledge from large, data-hungry models to compact student models, promoting efficient knowledge representation and transfer.
+
+You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pdf).
 
 
 # 🔥 News
