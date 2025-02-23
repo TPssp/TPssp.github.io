@@ -19,12 +19,13 @@ redirect_from:
 
 Welcome to my personal website! I am Zhiyuan Liu (Chinese: 刘知远), a highly motivated and passionate undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior (Class of 2026) with a strong academic record and a deep interest in **Data-centric AI**.
 
-My research interests include **Dataset Distillation** and **Knowledge Distillation**. I am passionate about **Data-centric AI** and intend to conduct advanced research in this field to drive innovative solutions and applications. 🚀 You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pdf).
+My research interests include **Dataset Distillation** and **Knowledge Distillation**. I am passionate about **Data-centric AI** and intend to conduct advanced research in this field to drive innovative solutions and applications. You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pdf).
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" under submission to CVPR 2025.
-- *2024.08*: &nbsp;🎉🎉 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
+- *2025.01*: &nbsp;🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions!
+- *2024.11*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" under submission to CVPR 2025.
+- *2024.08*: &nbsp;🎉 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
 
 # 📝 Publications 
 
