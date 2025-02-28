@@ -28,13 +28,13 @@ You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pd
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" was accepted by CVPR 2025.
 - *2025.01*: &nbsp;🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions!
-- *2024.11*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" under submission to CVPR 2025.
-- *2024.08*: &nbsp;🎉 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
+- *2024.08*: &nbsp;🤗 Started Research Intern at EPIC Lab, Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Submission to CVPR 2025</div><img src='images/NCFM-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/NCFM-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://openreview.net/pdf?id=xgJpJUdIil)
