@@ -37,7 +37,7 @@ You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pd
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 (Rating:555)</div><img src='images/NCFM-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://openreview.net/pdf?id=xgJpJUdIil)
+[Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](../assets/paper.pdf)
 
 Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, Linfeng Zhang
 
