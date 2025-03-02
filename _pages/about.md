@@ -50,7 +50,6 @@ Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, L
 # 🎖 Honors and Awards
 - *2023.12* National Scholarship (Top 1%), Ministry of Education of China
 - *2023.11* Huawei Smart Base Scholarship, Huawei Technologies Co., Ltd.
-- *2023.11* Outstanding Student Cadre, Harbin Institute of Technology
 
 # 📖 Educations
 - *2022.08 - Present*, Harbin Institute of Technology, Bachelor of Software Engineering
