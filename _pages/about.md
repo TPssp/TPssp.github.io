@@ -28,7 +28,7 @@ You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pd
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 The code of our paper has been released. [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
+- *2025.03*: &nbsp;🎉 The code of our paper has been released. 
 - *2025.02*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" was accepted by CVPR 2025 (Rating: 555). Thanks!
 - *2025.01*: &nbsp;🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions!
 - *2024.08*: &nbsp;🤗 Started Research Intern at [EPIC Lab](http://www.zhanglinfeng.tech/), Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
@@ -41,9 +41,9 @@ You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh_lzy.pd
 [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](../assets/paper.pdf)
 
 Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, Linfeng Zhang
-
-[**Project**](https://github.com/gszfwsb/NCFM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Pioneered NCFM, a novel dataset distillation approach that reframes the problem from a Characteristic Function perspective. This innovative approach casts dataset distillation within a min-max framework, achieving state-of-the-art performance while drastically reducing GPU memory requirements to 1/300th of prior leading methods and accelerating training by 20x.
+- Pioneered NCFM, a novel dataset distillation approach that reframes the problem from a Characteristic Function perspective. This innovative approach casts dataset distillation within a min-max framework.
+- NCFM achieves state-of-the-art performance while drastically reducing GPU memory requirements to **1/300th** of prior leading methods and accelerating training by **20x**.
+[**Project**](https://github.com/gszfwsb/NCFM)[![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
