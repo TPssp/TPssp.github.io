@@ -24,8 +24,6 @@ My research is centered around the burgeoning field of **Data-Efficient AI**, wh
 * **Dataset Distillation:**  Developing methods for efficient and lossless dataset compression, enabling effective training with significantly reduced data.
 * **Knowledge Distillation:**  Investigating novel techniques to transfer knowledge from large, data-hungry models to compact student models, promoting efficient knowledge representation and transfer.
 
-You can find my CV here: [Zhiyuan Liu's Curriculum Vitae](../assets/cv_zh.pdf).
-
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 The code of our paper **NCFM** has been released. [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
