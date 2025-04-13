@@ -33,7 +33,7 @@ My research is centered around the burgeoning field of **Data-Efficient AI**, wh
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <span style="color: red;">Highlight</span> (Rating: 5/5/5)</div><img src='images/NCFM-pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Highlight (Rating: 5/5/5)</div><img src='images/NCFM-pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653)
