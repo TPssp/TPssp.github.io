@@ -21,9 +21,10 @@ Welcome to my personal website! I am Zhiyuan Liu (Chinese: 刘知远), a highly 
 
 My research is centered around the burgeoning field of **Data-Efficient AI**, which tackles the critical challenge of data dependency in modern AI.  Current artificial intelligence models often demand vast amounts of training data, leading to prohibitively high training costs, especially for large-scale models.  I am deeply interested in exploring innovative approaches to **utilize data more efficiently**, including techniques for **scientific data cleaning and synthesis**, as well as **optimizing inference processes**, ultimately striving towards the goal of truly **data-efficient artificial intelligence**. My specific research interests directly align with this vision, focusing on:
 
+* **Efficient Inference Methods**: Exploring techniques to accelerate model inference to achieve faster and resource-light predictions without compromising performance.
 * **Dataset Distillation:**  Developing methods for efficient and lossless dataset compression, enabling effective training with significantly reduced data.
 * **Knowledge Distillation:**  Investigating novel techniques to transfer knowledge from large, data-hungry models to compact student models, promoting efficient knowledge representation and transfer.
-* **Efficient Inference Methods**: Exploring techniques to accelerate model inference to achieve faster and resource-light predictions without compromising performance.
+
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 The code of our paper **NCFM** has been released. [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
