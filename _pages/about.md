@@ -30,7 +30,7 @@ My research is centered around the burgeoning field of **Data-Efficient AI**, wh
 - *2025.03*: &nbsp;🎉 The code of our paper **NCFM** has been released. [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
 - *2025.02*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" was accepted by CVPR 2025 (Rating: 5/5/5). Thanks!
 - *2025.01*: &nbsp;🤗 We release an open-sourse repo "[Awesome Dataset Reduction](https://github.com/gszfwsb/Awesome-Dataset-Reduction)", which collects recent awesome dataset reduction papers! Feel free to contribute your suggestions! [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/Awesome-Dataset-Reduction.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/Awesome-Dataset-Reduction) 
-- *2024.08*: &nbsp;🤗 Started Research Intern at [EPIC Lab](http://www.zhanglinfeng.tech/), Shanghai Jiao Tong University, focusing on Dataset Distillation and Knowledge Distillation.
+- *2024.08*: &nbsp;🤗 Started Research Intern at [EPIC Lab](http://www.zhanglinfeng.tech/), Shanghai Jiao Tong University, focusing on Efficient Inference Methods, Dataset Distillation and Knowledge Distillation.
 
 # 📝 Publications 
 
@@ -48,7 +48,7 @@ Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, L
 
 # 🎖 Honors and Awards
 - *2023.12* National Scholarship (Top 1%), Ministry of Education of China
-- *2023.11* Huawei Smart Base Scholarship, Huawei Technologies Co., Ltd.
+- *2023.11* Huawei Smart Base Scholarship (Top 1%), Huawei Technologies Co., Ltd.
 
 # 📖 Educations
 - *2022.08 - Present*, Harbin Institute of Technology, Bachelor of Software Engineering
