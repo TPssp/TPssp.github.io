@@ -17,13 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my personal website! I am Zhiyuan Liu (Chinese: 刘知远), a highly motivated and passionate undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior with a strong academic record and a deep interest in **Data-centric AI**, particularly in **Data-Efficient Artificial Intelligence**.
+Welcome to my personal website!  
+I am Zhiyuan Liu (Chinese: 刘知远), an enthusiastic and self-driven undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior with a strong academic record and a growing passion for building **more capable and practical large-scale models**, particularly through the lens of **efficiency-oriented AI research**.
 
-My research is centered around the burgeoning field of **Data-Efficient AI**, which tackles the critical challenge of data dependency in modern AI.  Current artificial intelligence models often demand vast amounts of training data, leading to prohibitively high training costs, especially for large-scale models.  I am deeply interested in exploring innovative approaches to **utilize data more efficiently**, including techniques for **scientific data cleaning and synthesis**, as well as **optimizing inference processes**, ultimately striving towards the goal of truly **data-efficient artificial intelligence**. My specific research interests directly align with this vision, focusing on:
+My research interest centers around the fundamental question:  
+**How can we make large models more efficient, more generalizable, and more accessible?**  
+As the size and complexity of modern models continue to grow, so do their training and inference costs. This has created a pressing need to rethink how we construct and use large models—from data representation to computational design. I am especially motivated by the challenge of enhancing large model capabilities **without relying solely on scale**, but instead through **methodological innovation**.
 
-* **Efficient Inference Methods**: Exploring techniques to accelerate model inference to achieve faster and resource-light predictions without compromising performance.
-* **Dataset Distillation:**  Developing methods for efficient and lossless dataset compression, enabling effective training with significantly reduced data.
-* **Knowledge Distillation:**  Investigating novel techniques to transfer knowledge from large, data-hungry models to compact student models, promoting efficient knowledge representation and transfer.
+To this end, I have explored several key directions:
+
+- **Efficient Inference for Large Models**  
+  I co-authored a paper proposing `dLLM-Cache`, a training-free caching method to accelerate diffusion-based large language models by exploiting computational redundancies.
+
+- **Dataset Distillation for Data-Efficient Training**  
+  I contributed to the development of `NCFM`, a novel dataset distillation approach based on Characteristic Functions. 
+  ⭐️ _The paper was accepted as a **CVPR 2025 Highlight**, receiving **full** scores (5/5/5) from all three reviewers._
+- **Feature-based Knowledge Distillation**  
+  Building on the idea of distributional matching, I also explored the use of Characteristic Functions in feature-based knowledge distillation, aiming to improve the expressiveness and transferability of compact models.
+
+Looking forward, I hope to continue exploring **more efficient, scalable, and interpretable ways to build and utilize large models**, with a focus on enabling broad deployment and responsible AI development.
 
 
 # 🔥 News
