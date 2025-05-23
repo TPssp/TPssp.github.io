@@ -23,12 +23,12 @@ My research interest centers around the fundamental question: *How can we make l
 
 To this end, I have explored several key directions:
 
-- **Efficient Inference for Large Models:** I co-authored a paper proposing **dLLM-Cache**, a training-free caching method to accelerate diffusion-based large language models by exploiting computational redundancies.
+**Efficient Inference for Large Models:** I co-authored a paper proposing **dLLM-Cache**, a training-free caching method to accelerate diffusion-based large language models by exploiting computational redundancies.
 
-- **Dataset Distillation for Data-Efficient Training:** I contributed to the development of **NCFM**, a novel dataset distillation approach based on Characteristic Functions. 
+**Dataset Distillation for Data-Efficient Training:** I contributed to the development of **NCFM**, a novel dataset distillation approach based on Characteristic Functions. 
   ⭐️ _The paper was accepted as a **CVPR 2025 Highlight**, receiving **full** scores (5/5/5) from all three reviewers._
 
-- **Feature-based Knowledge Distillation:**  Building on the idea of distributional matching, I also explored the use of Characteristic Functions in feature-based knowledge distillation, aiming to improve the expressiveness and transferability of compact models.
+**Feature-based Knowledge Distillation:**  Building on the idea of distributional matching, I also explored the use of Characteristic Functions in feature-based knowledge distillation, aiming to improve the expressiveness and transferability of compact models.
 
 Looking forward, I hope to continue exploring **more efficient, scalable, and interpretable ways to build and utilize large models**, with a focus on enabling broad deployment and responsible AI development.
 
