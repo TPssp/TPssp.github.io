@@ -41,7 +41,7 @@ My research is centered around the burgeoning field of **Data-Efficient AI**, wh
 
 [dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching](../assets/paper.pdf)
 
-**Zhiyuan Liu***, Yicun Yang*, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.
+**Zhiyuan Liu** *, Yicun Yang *, Yaojie Zhang, Junjie Chen, Chang Zou, Qingyan Wei, Shaobo Wang, Linfeng Zhang.
 -  Pioneered dLLM-Cache, a novel approach to accelerate diffusion large language models (dLLMs) by leveraging adaptive caching techniques.
 - dLLM-Cache achieves up to **9.1x** speedup over standard dLLM pipelines, with **no performance loss** on most tasks.
 - [**Project**](https://github.com/maomaocun/dLLM-cache) [![GitHub stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maomaocun/dLLM-cache) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
