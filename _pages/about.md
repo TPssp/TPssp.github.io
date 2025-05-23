@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my personal website!  I am Zhiyuan Liu (Chinese: 刘知远), an enthusiastic and self-driven undergraduate student majoring in Software Engineering at Harbin Institute of Technology (HIT). I am currently a junior with a strong academic record and a growing passion for building **more capable and practical large-scale models**, particularly through the lens of **efficiency-oriented AI research**.
 
-My research interest centers around the fundamental question: *How can we make large models more efficient, more generalizable, and more accessible?* As the size and complexity of modern models continue to grow, so do their training and inference costs. This has created a pressing need to rethink how we construct and use large models—from data representation to computational design. I am especially motivated by the challenge of enhancing large model capabilities **without relying solely on scale**, but instead through **methodological innovation**.
+My research interest centers around the fundamental question: ***How can we make large models more efficient, more generalizable, and more accessible?*** As the size and complexity of modern models continue to grow, so do their training and inference costs. This has created a pressing need to rethink how we construct and use large models—from data representation to computational design. I am especially motivated by the challenge of enhancing large model capabilities **without relying solely on scale**, but instead through **methodological innovation**.
 
 To this end, I have explored several key directions:
 
