@@ -34,6 +34,8 @@ Looking forward, I hope to continue exploring **more efficient, scalable, and in
 
 
 # 🔥 News
+
+- *2025.06*: &nbsp;🤗 Started Research Intern at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), focusing on AI Security.
 - *2025.05*: &nbsp;🎉 The code of our paper **dLLM-Cache** has been released. [![GitHub stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maomaocun/dLLM-cache)
 - *2025.05*: &nbsp;🎉 We released the paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching".
 - *2025.03*: &nbsp;🎉 The code of our paper **NCFM** has been released. [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
@@ -77,4 +79,6 @@ Shaobo Wang, Yicun Yang, **Zhiyuan Liu**, Chenghao Sun, Xuming Hu, Conghui He, L
 - *2022.08 - Present*, Harbin Institute of Technology, Bachelor of Software Engineering
 
 # 💻 Internships
-- *2024.08 - Present*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/))
+- *2024.08 - Present*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)).
+
+- *2025.06 - Present*, Research Intern, Shanghai Artificial Intelligence Laboratory (Advised by Prof. [Jing Shao](https://amandajshao.github.io/)).
