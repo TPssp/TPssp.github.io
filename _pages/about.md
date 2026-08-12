@@ -25,11 +25,11 @@ To this end, my research spans several key areas, including **efficient inferenc
 
 # 🔥 News
 
-- *2026.08*: &nbsp;🎉 We release our new preprint "[MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents](https://arxiv.org/abs/2608.07068)".
+- *2026.08*: &nbsp;🎉 We release our new preprint "MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents".
 - *2026.05*: &nbsp;🎉 Paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching" was accepted to ICML 2026. [![GitHub stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maomaocun/dLLM-cache)
 - *2026.01*: &nbsp;🎉 Paper "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles" was accepted to ICLR 2026.
 - *2026.01*: &nbsp;🎉 Paper "The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs" was accepted to ICLR 2026.
-- *2025.02*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" was accepted by CVPR 2025 (Rating: 5/5/5). Thanks!  [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
+- *2025.02*: &nbsp;🎉 Paper "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective" was accepted by CVPR 2025 (Full Rating: 5/5/5). Thanks!  [![GitHub stars](https://img.shields.io/github/stars/gszfwsb/NCFM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gszfwsb/NCFM)
 
 <span class='anchor' id='-publications'></span>
 
