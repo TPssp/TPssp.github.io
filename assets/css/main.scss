@@ -146,7 +146,15 @@ html,
 body {
     background-color: var(--color-background);
     color: var(--color-text);
-    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Theme colors must update together. The legacy theme adds a global 0.2s
+   transition to text and links, so disable every transition for the single
+   frame in which the color scheme changes. */
+html.theme-changing,
+html.theme-changing * {
+    -webkit-transition: none !important;
+    transition: none !important;
 }
 
 a {

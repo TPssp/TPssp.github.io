@@ -14,6 +14,7 @@
   }
 
   function applyTheme(theme, remember) {
+    root.classList.add('theme-changing');
     root.setAttribute('data-theme', theme);
     updateToggle(theme);
 
@@ -24,6 +25,12 @@
         // The selected theme still works when storage is unavailable.
       }
     }
+
+    window.requestAnimationFrame(function () {
+      window.requestAnimationFrame(function () {
+        root.classList.remove('theme-changing');
+      });
+    });
   }
 
   updateToggle(root.getAttribute('data-theme') || 'light');
