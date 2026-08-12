@@ -25,6 +25,7 @@ To this end, my research spans several key areas, including **efficient inferenc
 
 # 🔥 News
 
+- *2026.08*: &nbsp;📄 We release our new preprint "[MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents](https://arxiv.org/abs/2608.07068)" on arXiv.
 - *2026.05*: &nbsp;🎉 Paper "dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching" was accepted to ICML 2026. [![GitHub stars](https://img.shields.io/github/stars/maomaocun/dLLM-cache.svg?style=social&label=Star&maxAge=2592000)](https://github.com/maomaocun/dLLM-cache)
 - *2026.01*: &nbsp;🎉 Paper "Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles" was accepted to ICLR 2026.
 - *2026.01*: &nbsp;🎉 Paper "The Devil Behind the Mask: An Emergent Safety Vulnerability of Diffusion LLMs" was accepted to ICLR 2026.
@@ -33,6 +34,16 @@ To this end, my research spans several key areas, including **efficient inferenc
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications (* denotes the equal contribution.)
+
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+[MemOPD: On-Policy Distillation through Memory State Alignment for Long-Horizon Agents](https://arxiv.org/abs/2608.07068)
+
+**Zhiyuan Liu**, Tinghong Ye, Chenghao Liu, Yizhuo Li, Songfang Huang.
+- Introduces Memory-Aligned On-Policy Distillation (MemOPD), which reconstructs the original memory states and token positions for valid teacher supervision during long-horizon agent training.
+- MemOPD-3B improves F1 over PPO by up to **416.2%**, while efficient invocation packing provides up to **1.63x** actor-training speedup.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dLLM-Cache_pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
