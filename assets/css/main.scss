@@ -166,6 +166,17 @@ a:active {
     color: var(--color-link-hover);
 }
 
+/* Do not leave the warning-colored focus ring after a mouse click. Keep a
+   clear, theme-aware indicator for keyboard navigation via Tab. */
+.masthead a:focus {
+    outline: none;
+}
+
+.masthead a:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 3px;
+}
+
 .masthead,
 .greedy-nav {
     background-color: var(--color-background);
