@@ -100,6 +100,6 @@ Zichen Wen, Jiashu Qu, Dongrui Liu, **Zhiyuan Liu**, Chaochao Lu, Jing Shao, Con
 - *2022.08 - 2026.06*, Harbin Institute of Technology, Bachelor of Software Engineering
 
 # 💻 Internships
-- *2025.06 - 2025.09*, Research Intern, Shanghai Artificial Intelligence Laboratory (Advised by Prof. [Jing Shao](https://amandajshao.github.io/)).
+- *2025.06 - 2025.09*, Research Intern, Shanghai Artificial Intelligence Laboratory (Advised by Prof. [Dongrui Liu](https://shenqildr.github.io/)).
 
 - *2024.08 - 2026.07*, Research Intern, EPIC Lab, Shanghai Jiao Tong University (Advised by Prof. [Linfeng Zhang](http://www.zhanglinfeng.tech/)).
