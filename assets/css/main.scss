@@ -107,3 +107,203 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/*
+   Light/dark color scheme
+   ========================================================================== */
+
+:root {
+    color-scheme: light;
+    --color-background: #ffffff;
+    --color-surface: #ffffff;
+    --color-surface-muted: #f5f6f7;
+    --color-text: #494e52;
+    --color-text-muted: #6f777d;
+    --color-border: #eef0f1;
+    --color-link: #224b8d;
+    --color-link-hover: #19386a;
+    --color-accent: #7a8288;
+    --color-code: #fafafa;
+    --color-shadow: rgba(0, 0, 0, 0.18);
+}
+
+html[data-theme="dark"] {
+    color-scheme: dark;
+    --color-background: #111418;
+    --color-surface: #181c21;
+    --color-surface-muted: #20252b;
+    --color-text: #d9dee3;
+    --color-text-muted: #a9b1ba;
+    --color-border: #30363d;
+    --color-link: #78a9e6;
+    --color-link-hover: #a8c9f0;
+    --color-accent: #9aa4ad;
+    --color-code: #20252b;
+    --color-shadow: rgba(0, 0, 0, 0.45);
+}
+
+html,
+body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+a {
+    color: var(--color-link);
+}
+
+a:hover,
+a:active {
+    color: var(--color-link-hover);
+}
+
+.masthead,
+.greedy-nav {
+    background-color: var(--color-background);
+}
+
+.masthead {
+    border-bottom-color: var(--color-border);
+}
+
+.masthead__menu {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.masthead__menu .greedy-nav {
+    flex: 1 1 auto;
+}
+
+.greedy-nav a {
+    color: var(--color-text-muted);
+}
+
+.greedy-nav a:hover {
+    color: var(--color-text);
+}
+
+.greedy-nav .hidden-links,
+.author__urls {
+    color: var(--color-text);
+    background: var(--color-surface);
+    border-color: var(--color-border);
+    box-shadow: 0 0 10px var(--color-shadow);
+}
+
+.greedy-nav .hidden-links li,
+.author__urls {
+    border-color: var(--color-border);
+}
+
+.greedy-nav .hidden-links::before,
+.author__urls::before {
+    border-color: var(--color-border) transparent;
+}
+
+.greedy-nav .hidden-links::after,
+.author__urls::after {
+    border-color: var(--color-surface) transparent;
+}
+
+.greedy-nav .hidden-links a:hover {
+    background: var(--color-surface-muted);
+}
+
+.theme-toggle {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.35rem;
+    height: 2.35rem;
+    padding: 0;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: color 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+    color: var(--color-text);
+    background: var(--color-surface-muted);
+    transform: rotate(8deg);
+}
+
+.theme-toggle:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+}
+
+.theme-toggle svg {
+    width: 1.2rem;
+    height: 1.2rem;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 1.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.theme-toggle__moon,
+html[data-theme="dark"] .theme-toggle__sun {
+    display: none;
+}
+
+html[data-theme="dark"] .theme-toggle__moon {
+    display: block;
+}
+
+.page__content h1,
+.paper-box,
+hr,
+.author__avatar img {
+    border-color: var(--color-border);
+}
+
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code,
+pre,
+table thead {
+    color: var(--color-text);
+    background: var(--color-code);
+    border-color: var(--color-border);
+}
+
+table th,
+table td {
+    border-color: var(--color-border);
+}
+
+figcaption,
+.page__meta,
+.archive__item-excerpt {
+    color: var(--color-text-muted);
+}
+
+input,
+textarea,
+select {
+    color: var(--color-text);
+    background-color: var(--color-surface);
+    border-color: var(--color-border);
+}
+
+html[data-theme="dark"] .paper-box-image img {
+    box-shadow: 3px 3px 8px var(--color-shadow);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html,
+    body,
+    .theme-toggle {
+        transition: none;
+    }
+}
