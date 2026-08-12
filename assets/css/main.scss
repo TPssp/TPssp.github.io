@@ -212,6 +212,24 @@ a:active {
     background: var(--color-surface-muted);
 }
 
+/* The author links are a popover on small screens, but part of the plain
+   sidebar on desktop. Keep the card treatment only where it is needed. */
+@include breakpoint($large) {
+    .author__urls {
+        color: inherit;
+        background: transparent;
+        border: 0;
+        box-shadow: none;
+    }
+}
+
+html[data-theme="dark"] .author__urls .fa,
+html[data-theme="dark"] .author__urls .fas,
+html[data-theme="dark"] .author__urls .fab,
+html[data-theme="dark"] .author__urls .ai {
+    color: var(--color-text-muted);
+}
+
 .theme-toggle {
     flex: 0 0 auto;
     display: inline-flex;
