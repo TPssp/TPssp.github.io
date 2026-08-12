@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyuan Liu"
-description              : "Student at Harbin Institute of Technology "
+description              : "Student at Peking University"
 repository               : "TPssp/TPssp.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Liu"
   avatar           : "images/IMG_512_512.png"
-  bio              : "Harbin Institute of Technology"
+  bio              : "Peking University"
   location         : "China"
   employer         :
   pubmed           : 
